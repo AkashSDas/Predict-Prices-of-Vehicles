@@ -274,11 +274,15 @@
 
 ![Correlation](https://github.com/AkashSDas/Predict-Prices-of-Vehicles/blob/master/project-results-images/correlation-matrix.png)
 
-#### Numerical Data Analysis![Learning Curve](https://github.com/AkashSDas/Predict-Prices-of-Vehicles/blob/master/project-results-images/numerical.png)
+#### Numerical Data Analysis
+
+![Numerical](https://github.com/AkashSDas/Predict-Prices-of-Vehicles/blob/master/project-results-images/numerical.png)
 
 `This is one of the many numerical data that were analysed to see their effects on the price of vehicle.`
 
-#### Categorical Data Analysis![Learning Curve](https://github.com/AkashSDas/Predict-Prices-of-Vehicles/blob/master/project-results-images/categorical.png)
+#### Categorical Data Analysis
+
+![Categorical](https://github.com/AkashSDas/Predict-Prices-of-Vehicles/blob/master/project-results-images/categorical.png)
 
 `This is one of the many categorical data that were analysed to see their effects on the price of vehicle.`
 
@@ -320,7 +324,7 @@
 
   
 
-![Metrics Scores](https://github.com/AkashSDas/Predict-Prices-of-Vehicles/blob/master/project-results-images/actual-vs-prediction.png)
+![Actual vs Prediction](https://github.com/AkashSDas/Predict-Prices-of-Vehicles/blob/master/project-results-images/actual-vs-prediction.png)
 
   
 
@@ -403,13 +407,7 @@ There is a **`requirements.txt`** file in `'Predict-Prices-of-Vehicles'/requirem
   
 
 ```bash
-
-  
-
 git clone https://github.com/AkashSDas/Predict-Prices-of-Vehicles
-
-  
-
 ```
 
   
@@ -437,17 +435,7 @@ git clone https://github.com/AkashSDas/Predict-Prices-of-Vehicles
   
 
 ```bash
-
-  
-
-  
-
 pip install pipenv
-
-  
-
-  
-
 ```
 
   
@@ -475,13 +463,7 @@ pip install pipenv
   
 
 ```bash
-
-  
-
 cd  'Predict-Prices-of-Vehicles'/venv/
-
-  
-
 ```
 
   
@@ -509,13 +491,7 @@ cd  'Predict-Prices-of-Vehicles'/venv/
   
 
 ```bash
-
-  
-
 pipenv install
-
-  
-
 ```
 
   
@@ -569,13 +545,7 @@ This will install all the dependencies and create a **Pipfile.lock** (this shoul
   
 
 ```bash
-
-  
-
 pipenv shell
-
-  
-
 ```
 
   
@@ -605,13 +575,7 @@ pipenv shell
   
 
 ```bash
-
-  
-
 cd src/
-
-  
-
 ```
 
   
@@ -639,13 +603,7 @@ cd src/
   
 
 ```bash
-
-  
-
 jupyter noterbook
-
-  
-
 ```
 
   
